@@ -20,4 +20,3 @@
 > If you wish to enable to the combat log again, disable the AddOn or write the following in the chat:
 > 
 > `/script TextLogSetEnabled("Combat", true)`
-hjjhjhk
